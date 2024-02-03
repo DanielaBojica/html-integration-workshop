@@ -1,0 +1,9 @@
+white background color: #ffffff
+grey background color for band: #f2f2f2
+black color for menu text: #0d0d0d
+grey color for sub menu text: #2f2f2f
+red color for primary buttons: #d54215
+red color for secondary buttons: #8a9607
+orange color for top of recipe summary time: #e7ab47
+blue color for links: #114388
+red color for footer newsletter button: #d54215

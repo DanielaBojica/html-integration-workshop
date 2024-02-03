@@ -4,7 +4,10 @@
 
 The page has been simplified to help you practise the most used HTML tags and CSS.
 
+
+
 CREATE A FORK OF THIS PROJECT TO KEEP YOUR WORK ON YOUR GITHUB ACCOUNT
+
 
 Steps for the project:
 
@@ -27,3 +30,62 @@ Steps for the project:
 - [ ] Follow your plan and complete the project
 - !IMPORTANT: Do not worry about responsive design for now. Make just the design is well displayed on your local. We can adjust later.
 - Go step by step, one piece of the design at the time.
+
+
+## To complete the challenge you need to use at least once the following elements:
+
+### Document Structure:
+
+[ ] HTML default page
+
+[ ] title
+
+### Text Content:
+
+[ ] h1
+
+[ ] h2
+
+[ ] P
+
+[ ] Strong
+
+### Lists:
+
+[ ] ul/li
+
+[ ] ol/li
+
+### Links and Navigation:
+
+[ ] a
+
+Images:
+
+[ ] img
+
+### Line Breaks and Horizontal Rules:
+
+[ ] br
+
+[ ] hr
+
+### Containers and Layout:
+
+[ ] Div
+
+[ ] Span
+
+### Form and Input:
+
+[ ] button
+
+### Tables:
+
+[ ] table
+
+[ ] tr
+
+[ ] th
+
+[ ] td

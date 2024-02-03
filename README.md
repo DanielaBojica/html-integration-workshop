@@ -28,19 +28,19 @@ Steps for the project:
 - [ ] Create a new file called style.css
 - [ ] Link the html file with the css tg using the link tag
 - [ ] Follow your plan and complete the project
-- !IMPORTANT: Do not worry about responsive design for now. Make just the design is well displayed on your local. We can adjust later.
+- !IMPORTANT: Do not worry about responsive design (adjusted to mobile screens) for now. Make just the design is well displayed on your local. We can adjust later.
 - Go step by step, one piece of the design at the time.
 
 
 ## To complete the challenge you need to use at least once the following elements:
 
-### Document Structure:
+#### Document Structure:
 
 [ ] HTML default page
 
 [ ] title
 
-### Text Content:
+#### Text Content:
 
 [ ] h1
 
@@ -50,13 +50,13 @@ Steps for the project:
 
 [ ] Strong
 
-### Lists:
+#### Lists:
 
 [ ] ul/li
 
 [ ] ol/li
 
-### Links and Navigation:
+#### Links and Navigation:
 
 [ ] a
 
@@ -64,23 +64,23 @@ Images:
 
 [ ] img
 
-### Line Breaks and Horizontal Rules:
+#### Line Breaks and Horizontal Rules:
 
 [ ] br
 
 [ ] hr
 
-### Containers and Layout:
+#### Containers and Layout:
 
 [ ] Div
 
 [ ] Span
 
-### Form and Input:
+#### Form and Input:
 
 [ ] button
 
-### Tables:
+#### Tables:
 
 [ ] table
 
@@ -89,3 +89,8 @@ Images:
 [ ] th
 
 [ ] td
+
+## A bit of help?
+
+- Either you do the html first and then you add the style after
+- Or you go html+css section per section

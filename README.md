@@ -4,6 +4,8 @@
 
 The page has been simplified to help you practise the most used HTML tags and CSS.
 
+CREATE A FORK OF THIS PROJECT TO KEEP YOUR WORK ON YOUR GITHUB ACCOUNT
+
 Steps for the project:
 
 ## Analyse the page

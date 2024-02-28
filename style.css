@@ -1,10 +1,13 @@
-* {
-	box-sizing: border-box;
-}
+
 
 @font-face {
    font-family: myFirstFont;
    src: url(/html-integration-workshop/assets/font/Radio_Canada/RadioCanada-VariableFont_wdth,wght.ttf);
+}
+
+* {
+	box-sizing: border-box;
+	font-family: myFirstFont;
 }
 
 body {
@@ -32,9 +35,9 @@ body {
     box-shadow: 0 0.125rem 0.375rem rgba(0,0,0,.15);
     z-index: 13;
     padding-top: 18px;
-    padding-bottom: 16px;
-    padding-left: 307px;
-    padding-right: 155px;
+    padding-bottom: 0px;
+    padding-left: 400px;
+    padding-right: 100px;
     height: 7.25rem;
     background-color: #fff;
     font-family: myFirstFont;
@@ -51,11 +54,57 @@ body {
     display: block;
     width: 100%
     margin: auto;
+  }
+
+
+.top-nav {
+    display: flex;
+    align-items: center;
+    padding-right: 250px;
 }
 
-.wrapper.search-container {
-    float: right;
+
+.top-nav .search-container {
+    float: right;*/
 }
+
+.top-nav .top-buttons {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+ }
+
+.top-nav .top-buttons p {
+       text-align: center;
+ }
+
+.bottom-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 400px;
+    font-size: small;
+ }
+
+ .bottom-nav p {
+    font-weight: 700;
+ }
+
+ .bottom-nav #right-button {
+
+ }
+
+.ad-1 {
+    position: absolute;
+    top: 124px;
+    width: 100%;
+ }
+
+ .ad-1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
 
 #main {
 	width: 80%;
@@ -74,14 +123,13 @@ body {
 .fa {
 	font-size: 20px;
 	width: 34px;
-	border-right: 0.0625rem solid rgba(0,0,0,.35);
 }
 
-.navigation-1 p {
+/*.navigation-1 p {
 	margin-top: -3px;
     margin-left: 20px;
     height: 24px;
-}
+}*/
 
 #login, #magazine, #newsletters {
 	border-right: 0.0625rem solid rgba(0,0,0,.35);
@@ -94,6 +142,14 @@ body {
 #magazine, #newsletters {
 	width: 120px;
 }
+
+#sweepstakes {
+    margin-left: 10px;
+}
+
+
+
+
 
 .review-bar img {
 	width: 18px;

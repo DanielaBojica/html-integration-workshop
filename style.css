@@ -96,8 +96,11 @@ body {
 
 .ad-1 {
     position: absolute;
-    top: 124px;
+    top: 117px;
     width: 100%;
+    padding: 17px;
+    background-color: rgba(211, 211, 211, 0.4);
+    background: linear-gradient(to bottom, rgb(211, 211, 211, 0.6) 3%, rgba(211, 211, 211, 0.35) 1%);
  }
 
  .ad-1 img {
